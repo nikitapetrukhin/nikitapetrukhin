@@ -22,8 +22,5 @@
     <img src="logos/icons8-%D1%82%D0%B5%D0%BB%D0%B5%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0-app-48.png" alt="Alt-текст" width="40px" height="40px">
   </a>
 
-
-  [![Telegram-logo](https://github.com/nikitapetrukhin/nikitapetrukhin/blob/main/logos/icons8-%D1%82%D0%B5%D0%BB%D0%B5%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0-app-48.png)](https://t.me/aZo1010)
-
   
   [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="40" height="40"/>](https://discord.com/channels/@me) [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" height="40"/>](https://www.linkedin.com/in/nikita-petrukhin/) &nbsp; <a href="mailto:nikita.p1577@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="40" height="40"/>
