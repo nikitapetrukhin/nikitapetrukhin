@@ -13,8 +13,9 @@
     <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>&nbsp;
   <a href = "https://docs.soliditylang.org/en/v0.8.23/"> 
-    <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" alt="react" width="40" height="40"/>   </a>&nbsp;
-    <a href = "https://html.spec.whatwg.org/multipage/"> 
+    <img src = "logos/solidity.png" alt="react" width="40" height="40"/>
+  </a>&nbsp;
+  <a href = "https://html.spec.whatwg.org/multipage/"> 
       <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>&nbsp;
   <a href = "https://www.w3schools.com/css/"> 
