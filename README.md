@@ -19,7 +19,13 @@
 <h2 align="left"> 📫 How to reach me:</h2>
 
   <a href="https://t.me/aZo1010">
-    <img src="logos/icons8-%D1%82%D0%B5%D0%BB%D0%B5%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0-app-48.png" alt="Alt-текст" width="40px" height="40px">
+    <img src="logos/icons8-%D1%82%D0%B5%D0%BB%D0%B5%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0-app-48.png" alt="Telegram-logo" width="40px" height="40px">
+  </a><a href="https://t.me/aZo1010">
+    <img src="logos/icons8-%D1%82%D0%B5%D0%BB%D0%B5%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0-app-48.png" alt="Discord-logo" width="40px" height="40px">
+  </a><a href="https://t.me/aZo1010">
+    <img src="logos/icons8-%D1%82%D0%B5%D0%BB%D0%B5%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0-app-48.png" alt="LinkedIn-logo" width="40px" height="40px">
+  </a><a href="https://t.me/aZo1010">
+    <img src="logos/icons8-%D1%82%D0%B5%D0%BB%D0%B5%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0-app-48.png" alt="G-Mail-logo" width="40px" height="40px">
   </a>
 
   
