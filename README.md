@@ -18,6 +18,11 @@
 
 <h2 align="left"> 📫 How to reach me:</h2>
 
+  <a href="https://t.me/aZo1010">
+    <img src="logos/icons8-%D1%82%D0%B5%D0%BB%D0%B5%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0-app-48.png" alt="Alt-текст" width="40px" height="40px">
+  </a>
+
+
   [![Telegram-logo](https://github.com/nikitapetrukhin/nikitapetrukhin/blob/main/logos/icons8-%D1%82%D0%B5%D0%BB%D0%B5%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0-app-48.png)](https://t.me/aZo1010)
 
   
