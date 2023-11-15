@@ -19,11 +19,11 @@
 <h2 align="left"> 📫 How to reach me:</h2>
 
   <a href="https://t.me/aZo1010">
-    <img src="logos/icons8-%D1%82%D0%B5%D0%BB%D0%B5%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0-app-48.png" alt="Telegram-logo" width="40px" height="40px">
+    <img src="logos/telegram.png" alt="Telegram-logo" width="40px" height="40px">
   </a><a href="https://discord.com/channels/@me">
     <img src="logos/discord.svg" alt="Discord-logo" width="40px" height="40px">
   </a><a href="https://www.linkedin.com/in/nikita-petrukhin/">
     <img src="logos/linkedin.png" alt="LinkedIn-logo" width="40px" height="40px">
   </a><a href="mailto:nikita.p1577@gmail.com">
-    <img src="logos/gmail.svg" alt="G-Mail-logo" width="40px" height="40px">
+    <img src="logos/gmail.png" alt="G-Mail-logo" width="40px" height="40px">
   </a>
