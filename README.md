@@ -27,6 +27,3 @@
   </a><a href="mailto:nikita.p1577@gmail.com">
     <img src="logos/gmail.svg" alt="G-Mail-logo" width="40px" height="40px">
   </a>
-
-  
-  [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="40" height="40"/>](https://discord.com/channels/@me) [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" height="40"/>](https://www.linkedin.com/in/nikita-petrukhin/) &nbsp; <a href="mailto:nikita.p1577@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="40" height="40"/>
