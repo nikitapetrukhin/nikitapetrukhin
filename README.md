@@ -33,9 +33,6 @@
   <a href = "https://t.me/aZo1010">
     <img src = "logos/telegram.png" alt = "Telegram-logo" width="40px" height="40px"/>
   </a>&nbsp;
-  <a href = "https://discord.com/channels/@me">
-    <img src = "logos/discord.svg" alt = "Discord-logo" width="40px" height="40px"/>
-  </a>&nbsp;
   <a href = "https://www.linkedin.com/in/nikita-petrukhin/">
     <img src = "logos/linkedin.png" alt = "LinkedIn-logo" width="40px" height="40px"/>
   </a>&nbsp;
