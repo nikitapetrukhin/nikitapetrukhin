@@ -25,7 +25,7 @@
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-  - :computer: I'm a Frontend Developer, currently exploring Web3 Space and Solidity;
+  - :computer: I'm a Frontend Developer;
 
 
 <h2 align = "left"> 📫 How to reach me:</h2>
